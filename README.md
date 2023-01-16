@@ -1,5 +1,5 @@
 # 💡 My pet projects 🐶
-> This a humble list of my projects.  
+> This a humble list of my pet projects.  
 > All of them we made during my learning path from 2020 year.  
 > Main field of my interest is data engineering and data science.
 
